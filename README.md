@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tarek Bassiouny
 
-### 💻 Senior Backend & Full Stack Engineer | .NET Core • PHP • Python
+### 💻 Senior Software Engineer | .NET Core • PHP • Python
 
-Welcome to my GitHub! I’m a passionate software engineer with over 9 years of experience building scalable backend systems, high-performance APIs, and data-intensive platforms. I’ve worked remotely across Europe and the Middle East, recently leading backend architecture at [Moodagent](https://www.moodagent.com).
+Welcome to my GitHub! I’m a passionate software engineer with over 9 years of experience building scalable backend systems, high-performance APIs, and data-intensive platforms. I’ve worked remotely across Europe and the Middle East, recently leading backend architecture at Moodagent.
 
 ---
 
