@@ -48,7 +48,7 @@ Welcome to my GitHub! I’m a passionate software engineer with over 9 years of 
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tarek-bassiouny/)
 - 📧 tarek.bassiuony22@gmail.com
-- 📄 [View My Resume](https://github.com/tarekBassiouny)
+- 📄 [View My Resume]([https://github.com/tarekBassiouny](https://github.com/tarekBassiouny/tarekBassiouny/blob/main/Tarek_Bassiouny_Resume.pdf))
 
 ---
 
