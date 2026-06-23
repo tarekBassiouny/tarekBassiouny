@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tarek Bassiouny
 
-### 💻 Senior Backend Software Engineer  
+### 💻 Senior Software Engineer  
 .NET Core • PHP (Laravel/Symfony) • Distributed Systems • Search & Data Platforms
 
 I’m a Senior Backend Software Engineer with **9+ years of experience** designing and scaling
